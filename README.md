@@ -1,2 +1,2 @@
-# go_lisson
+# go_lesson
 GO Lesson
